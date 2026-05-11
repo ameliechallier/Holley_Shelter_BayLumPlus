@@ -3,4 +3,4 @@ Bayesian Age Modeling for 14C and luminescence data from the Holley shelter site
 
 All steps are detailed in the R script. 
 
-The matrix .csv files are provided in the repository.
+The matrix .csv files for the luminescence samples are provided separately for each profile.
